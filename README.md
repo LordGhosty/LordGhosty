@@ -13,9 +13,9 @@ Current Project:
       ; /     '-'                         |    ___/ / __  / ___ |/ _, _/ /| |   / // /_/ /___/ / 
       | \       ,-,                       |   /____/_/ /_/_/  |_/_/ |_/_/ |_|  /_(_)____//____/  
       \  '-.__   )_`'._                   |
-       '.     ```      ``'--._            | A Discord bot created for fun. Afterwards it was 
-      .-' ,                   `'-.        | supposed to be launched publicly but i have no
-       '-'`-._           ((   o   )       |  mood in general 
-              `'--....(`- ,__..--'        |
-                       '-'`               |
+       '.     ```      ``'--._            | Supposed to be a bot altho i discountinued it. 
+      .-' ,                   `'-.        | Sharky.js has been replaced with SELENITE.js which
+       '-'`-._           ((   o   )       | is more reliable and also uses a bigger database.
+              `'--....(`- ,__..--'        | Has fewer bugs and also user-installed commands for
+                       '-'`               | more functionality.
 ```
