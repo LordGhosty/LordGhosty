@@ -2,7 +2,7 @@
 # Profile of da Ghosty
 
 
-![Profile Banner](https://i.pinimg.com/736x/dd/98/e0/dd98e059a26b9222af900c06edbb4d49.jpg)
+![Profile Banner](https://i.pinimg.com/736x/ea/bf/60/eabf608996b8cf5896c3c956d0cd87f0.jpg)
 
 ## 🛠️ Skills & Technologies
 - **Languages:** JavaScript, Python, LUA, HTML, CSS
