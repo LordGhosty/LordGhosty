@@ -62,3 +62,7 @@ Current Top language on public repos
               `'--....(`- ,__..--'
                        '-'`
 ```
+
+
+![Snake Animation](https://github.com/LordGhosty/LordGhosty/blob/output/github-contribution-grid-snake.svg)
+
