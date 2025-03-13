@@ -18,7 +18,7 @@ Current Top language on public repos
 
 ---
 
-## 🚀 My Projects
+## 🪴 My Projects
 | Name | Description | Tech Stack |
 |------|-------------|------------|
 | [ROOT](#) | An application made in the discord enviroment. Manages my VPS. | Discord.js, Node.js |
@@ -42,7 +42,7 @@ Current Top language on public repos
 
 ---
 
-## 🎨 Fun Stuff
+## 🌺 Fun Stuff
 - **Hobbies:** Learning languages (machine or irl), Drawing, Creating stuff, Cooking, Gardening, Sleeping
 
 ---
@@ -64,5 +64,4 @@ Current Top language on public repos
 ```
 
 
-![Snake Animation](https://github.com/LordGhosty/LordGhosty/blob/output/github-contribution-grid-snake.svg)
 
