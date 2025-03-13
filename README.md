@@ -19,10 +19,16 @@
 | [SELENITE](#) | An application made in the discord enviroment. More than just an admin for your discord server. Still under development | MongoDB, Discord.js, Node.js |
 | [UserInstall](#) | An application made in the discord enviroment. Creates commands that exclusive to user inventory. | Discord.js, Node.js |
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordGhosty&layout=compact&theme=radical)
+
+
 ---
 
 ## 📊 GitHub Stats
 ![Gh⛦sty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordGhosty&show_icons=true&theme=radical)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LordGhosty&theme=radical)
+
 
 ---
 
