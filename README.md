@@ -10,6 +10,9 @@
 - **Tools:** Git, VSCode
 - **Interests:** Discord Bot development (only for the time)
 
+Current Top language on public repos
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordGhosty&layout=compact&theme=radical)
+
 ---
 
 ## 🚀 My Projects
@@ -18,8 +21,6 @@
 | [ROOT](#) | An application made in the discord enviroment. Manages my VPS. | Discord.js, Node.js |
 | [SELENITE](#) | An application made in the discord enviroment. More than just an admin for your discord server. Still under development | MongoDB, Discord.js, Node.js |
 | [UserInstall](#) | An application made in the discord enviroment. Creates commands that exclusive to user inventory. | Discord.js, Node.js |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordGhosty&layout=compact&theme=radical)
 
 
 ---
