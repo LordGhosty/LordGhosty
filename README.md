@@ -2,7 +2,7 @@
 # Ei there.
 
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+Profile)
+![Profile Banner]([https://via.placeholder.com/800x200?text=Welcome+to+My+Profile](https://gr.pinterest.com/pin/6122149487710434/))
 
 ## 🛠️ Skills & Technologies
 - **Languages:** JavaScript, Python, LUA, HTML, CSS
