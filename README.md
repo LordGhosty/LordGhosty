@@ -10,6 +10,8 @@
 - **Tools:** Git, VSCode
 - **Interests:** Discord Bot development (only for the time)
 
+
+
 Current Top language on public repos
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordGhosty&layout=compact&theme=radical)
